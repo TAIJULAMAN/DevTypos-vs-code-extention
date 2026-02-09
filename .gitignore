@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build
+out/
+dist/
+*.vsix
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
